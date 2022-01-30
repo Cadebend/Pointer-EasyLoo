@@ -1,12 +1,12 @@
 # Pointer-EasyLoo
 
-follow my step to create your own pointer-NFT easily.
+Follow my step to create your own pointer-NFT  more easier.
 
-if u like this course , tip me on any network.
+If u like this course , tip me haha.
 
-erc : 0x707cC7ff415DA0262a153c853c0E34e7D6D6cAdc
+Erc ( anynetwork ) : 0x707cC7ff415DA0262a153c853c0E34e7D6D6cAdc
 
-trc : TNJ9WwrTuDQMPaQ4NyvqSbNkbNXJid67iy
+Trc : TNJ9WwrTuDQMPaQ4NyvqSbNkbNXJid67iy
 
 # Preparatory work
 
