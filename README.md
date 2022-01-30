@@ -2,11 +2,11 @@
 
 follow my step to create your own pointer-NFT easily.
 
-if u like this course , tip on arbitrary network
+if u like this course , tip me on any network.
 
-erc:0x707cC7ff415DA0262a153c853c0E34e7D6D6cAdc
+erc : 0x707cC7ff415DA0262a153c853c0E34e7D6D6cAdc
 
-trc:TNJ9WwrTuDQMPaQ4NyvqSbNkbNXJid67iy
+trc : TNJ9WwrTuDQMPaQ4NyvqSbNkbNXJid67iy
 
 # Preparatory work
 
